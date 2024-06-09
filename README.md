@@ -28,7 +28,6 @@ Originally, I wanted to find information related to what is running on the compu
 
    git clone https://github.com/iowa-david/nmap_utility.git
 
-2. Change into the nmap-utility folder
 
           
 
@@ -47,8 +46,7 @@ Originally, I wanted to find information related to what is running on the compu
   - Capture specific programs that are using more than identified threshold for CPU and memory to look to see if they are causing system issues.
 
 ## Why I am Interested
-
-There are many common tools that are used for penetration testing and viewing the security of a network. Some of these are easier than others, the goal of this project is to leverage Python language to start to dive into common tools and see what can be completed within the tools inside a common scripting language.
+In my day job, I have worked to find what system processes are causing issues, historically there have not been tools that help to find this information very effectively and narrowing them down causes a headache. Some of the issues I have found historically have been when new tools are installed on the server where my applications are running. They have been from multiple logging frameworks running on one machine for instance. Having a tool that stores baseline information and compares from week to week would allow for me to compare what tools are being run at a time to alleviate system performance issues. This can help to determine if scheduled tasks are negatively impacting system performance by bulk processing or other targeted issues.
 
 ## Areas of Improvement
 
