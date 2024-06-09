@@ -26,7 +26,7 @@ Originally, I wanted to find information related to what is running on the compu
 
 1. Clone the repository
 
-   git clone https://github.com/iowa-david/nmap_utility.git
+   git clone https://github.com/iowa-david/csc842-cycle4.git
 
 
           
