@@ -4,7 +4,7 @@ Logging of key system performance metrics along with the applications that are t
 
 ## Description
 
-Originally, I wanted to find information related to what is running on the computer at startup along with what services are running. But after seeing Group 1 presentations, I saw something similar had been done. In keeping with the theme of viewing computer usage, I decided to look at what can be done for creating a performance monitoring process. I wanted to put something together that can be run across multiple environments and gather information at a point in time to be able to look to see if there is any resource contention at a particular point in time.
+Originally, I wanted to find information related to what is running on the computer at startup along with what services are running. But after seeing Group 1 presentations, I saw something similar had been done. In keeping with the theme of viewing computer usage, I decided to look at what can be done for creating a performance monitoring process. I wanted to put something together that can be run across multiple environments and gather information at a point in time to be able to look to see if there is any resource contention at a particular point in time. In addition, I had not done threaded programming in Python and wanted to get familiarity with await async processing.
 
 
 ## Table of Contents
