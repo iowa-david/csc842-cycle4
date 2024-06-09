@@ -57,4 +57,4 @@ In my day job, I have worked to find what system processes are causing issues, h
 ## for more information
 [psutil](https://github.com/giampaolo/psutil)
 
-[OSQuery]([https://github.com/giampaolo/psutil](https://github.com/osquery/osquery?tab=readme-ov-file))
+[OSQuery](https://github.com/giampaolo/psutil](https://github.com/osquery/osquery?tab=readme-ov-file))
